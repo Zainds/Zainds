@@ -1,3 +1,5 @@
+# ⚡ About me
+
 `Software Engineer` `Web Developer`
 
 Hey there! I'm an aspiring front-end developer, learning and building cool stuff.
@@ -25,7 +27,7 @@ Feel free to check out some of the things I’ve built — and stay tuned, more 
 
 # 📱 Contact me
 
-### Telegram: @za1nds
+### Telegram: @za1nds(https://t.me/za1nds)
 
 ### Email: beat1097@mail.ru
 
