@@ -28,5 +28,3 @@ Feel free to check out some of the things I’ve built — and stay tuned, more 
 ### Telegram: [@za1nds](https://t.me/za1nds)
 
 ### Email: beat1097@mail.ru
-
-[![](https://visitcount.itsvg.in/api?id=incandesc3nce&label=Profile%20Views&color=6&icon=5&pretty=false)](https://github.com/incandesc3nce)
