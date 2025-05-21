@@ -16,6 +16,7 @@ Feel free to check out some of the things I’ve built — and stay tuned, more 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
