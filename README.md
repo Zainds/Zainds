@@ -1,7 +1,5 @@
 # ⚡ About me
 
-`Software Engineer` `Web Developer`
-
 Hey there! I'm an aspiring front-end developer, learning and building cool stuff.
 
 I’m passionate about web development and enjoy turning ideas into interactive interfaces. I’m constantly improving my skills through side projects, tutorials, and real practice.
